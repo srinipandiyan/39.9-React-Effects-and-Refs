@@ -1,0 +1,15 @@
+.Deck {
+  text-align: center;
+}
+
+.Deck-btns {
+  background-color: black;
+  color: whitesmoke;
+  padding: 15px;
+  border-radius: 8px;
+  margin: 0 10px;
+}
+
+.Deck-area {
+  margin-top: 80px;
+}
